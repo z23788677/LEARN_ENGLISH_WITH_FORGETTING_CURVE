@@ -1,3 +1,5 @@
+# This project isn't finished yet.
+
 LEARN_ENGLISH_WITH_FORGETTING_CURVE
 ===
 This Project helps users learn English by the forgetting curve, It allows users to input new vocabularies, and review them at any time.
